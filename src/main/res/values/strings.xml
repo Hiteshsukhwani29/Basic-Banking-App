@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+
+    <string name="splash_name">E-Bank (Basic Banking App)</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_transaction">Transactions</string>
+</resources>
